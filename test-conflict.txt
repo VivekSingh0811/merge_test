@@ -1,3 +1,4 @@
 # Testing conflict detection
 # Test 2
 # Test 3 - After fix
+# Test 4 - With allow-unrelated-histories
